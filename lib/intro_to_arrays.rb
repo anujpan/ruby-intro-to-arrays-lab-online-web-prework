@@ -5,6 +5,7 @@ end
 def array_with_two_elements
   my_new_array = []
 
+  
   my_new_array.push(rand(6))
   my_new_array.push(rand(6))
 end
