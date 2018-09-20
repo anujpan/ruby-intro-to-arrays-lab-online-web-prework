@@ -8,7 +8,7 @@ def array_with_two_elements
   counter = 0
 
   until counter == 2
-    my_new_array.push("1")
+    my_new_array.push(rand(6))
     counter += 1
   end
   
